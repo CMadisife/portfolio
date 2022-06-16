@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Collins Madisife</title>
+    <link>https://cmadisife.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Collins Madisife</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://cmadisife.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clinical Data Exploration and ML Model</title>
+      <link>https://cmadisife.github.io/portfolio/post/project-1/</link>
+      <pubDate>Tue, 12 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://cmadisife.github.io/portfolio/post/project-1/</guid>
+      <description>Analyzed the total and average cost of claims paid by the company Performed analyses on different insurance plans to understand the most important Analyzed activities of partner facilities Evaluated claims submission and payment cycle Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
